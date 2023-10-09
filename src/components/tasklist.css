@@ -1,0 +1,10 @@
+
+
+
+.taskbox{
+    height: auto;
+    line-height: normal;
+    line-break: anywhere;
+    word-break:keep-all;
+    word-wrap: none;
+}
